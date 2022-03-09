@@ -1,0 +1,9 @@
+/*** Set the width of our five-day forecast cards ***/
+.fiveDayWidth {
+    width: 10rem;
+}
+
+/*** Ensure clicks inside our buttons are always for the button itself ***/
+button > * {
+    pointer-events: none;
+  }
