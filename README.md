@@ -29,7 +29,7 @@ GitHub Repo: https://github.com/aafaydi/Weather_Dashboard
 GitHub Pages: https://aafaydi.github.io/Weather_Dashboard/
 
 ![picture](1.png)
-![picture](2.png)
+
 
 
 ## Installation:
